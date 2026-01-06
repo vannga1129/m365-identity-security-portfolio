@@ -1,0 +1,25 @@
+givenName,surName,department,companyname,country,city,jobtitle
+Mikkel,Hansen,Nytech-Management,NyTechAS,Norway,Trondheim,CEO
+Markus,Medby,Nytech-Management,NyTechAS,Norway,Trondheim,CTO
+Kristian,Haug,Nytech-Management,NyTechAS,Norway,Trondheim,CFO
+Ivar,Martinsen,Nytech-Management,NyTechAS,Norway,Trondheim,HR-sjef
+Maren,Moe,DEP-Utvikling,NyTechAS,Norway,Trondheim,Utviklingsleder
+Geir,Wang,DEP-Utvikling,NyTechAS,Norway,Trondheim,Seniorutvikler
+Kjetil,Riis,DEP-Utvikling,NyTechAS,Norway,Trondheim,Seniorutvikler
+Johan,Karlsen,DEP-Utvikling,NyTechAS,Norway,Trondheim,Seniorutvikler
+Dagfinn,Warholm,DEP-Utvikling,NyTechAS,Norway,Trondheim,Juniorutvikler
+Gjermund,Haugen,DEP-Utvikling,NyTechAS,Norway,Trondheim,Juniorutvikler
+Lars,Bentzen,DEP-Utvikling,NyTechAS,Norway,Trondheim,Juniorutvikler
+Rolf,Pedersen,DEP-Utvikling,NyTechAS,Norway,Trondheim,Juniorutvikler
+Stian,Ytreland,DEP-SalgMarkedsforing,NyTechAS,Norway,Trondheim,Salgs- og Markedsføringssjef
+Petra,Alver,DEP-SalgMarkedsforing,NyTechAS,Norway,Trondheim,Selger
+Kari,Fretheim,DEP-SalgMarkedsforing,NyTechAS,Norway,Trondheim,Selger
+Nina,Pedersen,DEP-SalgMarkedsforing,NyTechAS,Norway,Trondheim,Markedsfører
+Bente,Gundersen,DEP-SalgMarkedsforing,NyTechAS,Norway,Trondheim,Markedsfører
+Siri,Moen,DEP-Kundesupport,NyTechAS,Norway,Trondheim,Supportsjef
+Jan,Eide,DEP-Kundesupport,NyTechAS,Norway,Trondheim,Supportmedarbeider
+Astrid,Evjen,DEP-Kundesupport,NyTechAS,Norway,Trondheim,Supportmedarbeider
+Daniel,Thorsen,DEP-Kundesupport,NyTechAS,Norway,Trondheim,Supportmedarbeider
+Jonas,Skott,SEC-IT-ADMIN,NyTechAS,Norway,Trondheim,IT-sjef
+Rikard,Berg,SEC-IT-ADMIN,NyTechAS,Norway,Trondheim,IT-spesialist
+Emilie,Lien,DEP-Administrasjon,NyTechAS,Norway,Trondheim,Økonomiansvarlig
